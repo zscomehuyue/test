@@ -53,6 +53,5 @@ importsql.sh
 *.iws
 *.ipr
 *.iml
-
-target/
+*.log
 
